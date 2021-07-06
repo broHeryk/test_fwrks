@@ -1,4 +1,4 @@
-Created for demo purposes of unittest and nose test framework.
+Created for demo purposes of unittest, pytest and nose test frameworks.
 
 To run samples you might need to install requirements with:
 
